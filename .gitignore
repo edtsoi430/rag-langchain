@@ -8,3 +8,8 @@ wheels/
 
 # venv
 .venv
+
+# Data
+chroma_*
+chroma
+.DS_Store
